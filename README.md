@@ -7,5 +7,4 @@ Hello, how are you all? I'm André Elton and since childhood I've had a passion 
 
 My main motivation is to develop solutions that really have a positive impact on people's lives, solving problems effectively and efficiently. I have a special interest in improving my skills in both Front-End and Back-End, always looking to create more fluid and functional digital experiences.
 
-Translated with DeepL.com (free version)
 
