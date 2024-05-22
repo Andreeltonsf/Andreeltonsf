@@ -1,10 +1,49 @@
-Olá, como estão todos? Sou o André Elton e desde a minha infância tenho uma paixão pela tecnologia. Aos 10 anos, tive meu primeiro contato com esse fascinante mundo, e desde então tenho me dedicado a estudar suas diferentes áreas.
+<h2 align="left">Hi,my name is André.</h2>
 
-Minha motivação principal é desenvolver soluções que realmente impactem positivamente a vida das pessoas, resolvendo problemas de forma eficaz e eficiente. Tenho um interesse particular em aprimorar minhas habilidades tanto no Front-End quanto no Back-End, sempre em busca de criar experiências digitais mais fluidas e funcionais.
+###
 
+<img src="https://raw.githubusercontent.com/andreeltonsf/andreeltonsf/output/snake.svg" alt="Snake animation" />
 
-Hello, how are you all? I'm André Elton and since childhood I've had a passion for technology. At the age of 10, I had my first contact with this fascinating world, and since then I've dedicated myself to studying its different areas.
+###
 
-My main motivation is to develop solutions that really have a positive impact on people's lives, solving problems effectively and efficiently. I have a special interest in improving my skills in both Front-End and Back-End, always looking to create more fluid and functional digital experiences.
+<div align="left">
+  <a href="https://www.instagram.com/eltisferreiraa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="franciscoandreeltonsf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-elton-3170b8200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjAXOesbMTluDpPdzbrgJ5w%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreeltonsf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeltonsf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
