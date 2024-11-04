@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm André! A passionate  Software and Physics  Engineer student from Brazil.
+  Hi 👋, I'm André! A passionate Computer Science and Physics  student from Brazil.
 
   - 🌱 I’m currently studying Physics and software development.
 
